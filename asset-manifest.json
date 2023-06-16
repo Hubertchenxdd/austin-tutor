@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/austin-tutor/static/css/main.440d8e60.css",
-    "main.js": "/austin-tutor/static/js/main.832d6542.js",
+    "main.js": "/austin-tutor/static/js/main.75966e7d.js",
     "static/media/banana.jpeg": "/austin-tutor/static/media/banana.50c35e9ac57c3f906af4.jpeg",
     "index.html": "/austin-tutor/index.html",
     "main.440d8e60.css.map": "/austin-tutor/static/css/main.440d8e60.css.map",
-    "main.832d6542.js.map": "/austin-tutor/static/js/main.832d6542.js.map"
+    "main.75966e7d.js.map": "/austin-tutor/static/js/main.75966e7d.js.map"
   },
   "entrypoints": [
     "static/css/main.440d8e60.css",
-    "static/js/main.832d6542.js"
+    "static/js/main.75966e7d.js"
   ]
 }
